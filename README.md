@@ -20,8 +20,8 @@ Hey! I'm RS Jayanth, a Computer Science undergrad from India 🇮🇳, currently
 
 <details>
 
- <br/></br>   
-  <summary><b>Github Stats ⚡</b></summary>
+ <br>   
+  <summary><b>Github Stats</b> ⚡</summary>
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=rsjaynth&count_private=true&hide_border=true&line_height=20&show_icons=true&title_color=3ea6ff&text_color=c9d1d9&icon_color=90ee90&bg_color=0d1117" />
   </a>
