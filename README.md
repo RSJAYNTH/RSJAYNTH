@@ -11,7 +11,8 @@ Hey! I'm RS Jayanth, a Computer Science undergrad from India 🇮🇳, currently
 ### 🛠️ What I Know
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,c" alt="Skills" />
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,c,figma" />
 </p>
 
 ---
