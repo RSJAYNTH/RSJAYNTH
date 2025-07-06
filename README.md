@@ -10,7 +10,7 @@ Hey! I'm RS Jayanth, a Computer Science undergrad from India 🇮🇳, currently
 
 ### 🛠️ What I Know
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,c,figma" />
 </p>
