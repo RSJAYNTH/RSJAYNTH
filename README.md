@@ -36,4 +36,4 @@ Hey! I'm RS Jayanth, a Computer Science undergrad from India 🇮🇳, currently
 ---
 
 
-![profile view count](https://komarev.com/ghpvc/?username=rsjaynth)
+![profile view count](![](https://komarev.com/ghpvc/?rsjaynth&color=green))
