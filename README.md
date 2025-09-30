@@ -12,7 +12,7 @@ Hey! I'm RS Jayanth, a Computer Science undergrad from India 🇮🇳, currently
 
 <p align="left">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,c,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,c,figma,pr" />
 </p>
 
 ---
