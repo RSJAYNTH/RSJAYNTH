@@ -4,7 +4,7 @@ Hey! I
 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-rsjayanth.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://marvel.com/error404)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rsjayanth/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rsjaynth)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/error404)
 
 ---
 
